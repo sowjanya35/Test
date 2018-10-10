@@ -9,3 +9,6 @@ def test_A(setUp):
 
 def test_B(setUp):
     print("method B")
+    
+def test_c(setUp):
+    print("method c")
